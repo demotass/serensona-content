@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    {
+      "id": "remote_test_1",
+      "title": "Sonido de Prueba",
+      "description": "Este sonido viene desde GitHub",
+      "categoryId": "nature",
+      "assetPath": "https://media.serensona.demotass.com/sounds/forest.mp3",
+      "isRemote": true
+    }
+  ]
+}
