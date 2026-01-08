@@ -1,0 +1,31 @@
+{
+  "patterns": [
+    {
+      "id": "focus",
+      "name": "Enfoque (4-4)",
+      "description": "Respiración rítmica simple para recuperar la atención.",
+      "inhale": 4,
+      "hold": 0,
+      "exhale": 4,
+      "holdPost": 0
+    },
+    {
+      "id": "calm",
+      "name": "Calma Profunda",
+      "description": "Exhalación prolongada para activar la relajación física.",
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6,
+      "holdPost": 0
+    },
+    {
+      "id": "sleep",
+      "name": "Sueño Profundo",
+      "description": "Ritmo lento ideal para hacer justo antes de dormir.",
+      "inhale": 5,
+      "hold": 2,
+      "exhale": 7,
+      "holdPost": 0
+    }
+  ]
+}
